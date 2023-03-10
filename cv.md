@@ -1,4 +1,6 @@
-## **Toktoraliev Albert**
+![Image](https://github.com/albert296/rsschool-cv/blob/gh-pages/photo2.jpg)
+
+# **Toktoraliev Albert**
 ---
 ### Phone: +99677829696
 ---
