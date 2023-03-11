@@ -156,6 +156,42 @@ header{
     color: #EB6440;    
 }
 
+
+
+main{
+    margin: auto;
+    position: fixed;
+    width: 1200px;
+    height: 100%;
+    background-color: #fafafa;
+}
+
+section{
+    width: 1200px;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+}
+
 .developing{
-   background: url(in_developing.png); 
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    background: url(in_developing.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-dev{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: #497174;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 1200px;
+    height: 80px;
+    background-color: #D6E4E5;
 }
